@@ -21,15 +21,8 @@ Enter Day of 1st January: Sunday
 
 📤 Sample Output
 
-January
-Sunday Monday Tuesday Wednesday Thursday Friday Saturday
-1        2       3       4       5       6       7
-...
-February
-Sunday Monday Tuesday Wednesday Thursday Friday Saturday
-                         1       2       3       4
-5        6       7       8       9       10      11
-...
+![image](https://github.com/user-attachments/assets/0e1667ee-c9fa-4ef9-8164-9ce73f3330f4)
+
 The output continues month by month till December, correctly accounting for leap years and weekday alignment.
 
 🔧 Features
