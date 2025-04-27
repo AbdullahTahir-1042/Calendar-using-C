@@ -2,14 +2,13 @@ Yearly Calendar Generator (C Program)
 This program displays a full calendar for any given year, based on the starting day of January 1st. The program is written in C and prints each month with proper alignment under weekday headers (Sunday to Saturday).
 
 ## 🧾 How It Works
-The user inputs:
+* The user inputs:
 
-A year (e.g., 2004)
+* A year (e.g., 2004)
 
-The starting day of January 1st (e.g., Sunday)
+* The starting day of January 1st (e.g., Sunday)
 
-The program then:
-
+* The program then:
 Prints all 12 months with correctly aligned days under weekdays.
 
 Automatically accounts for leap years (e.g., 2004 includes February 29).
